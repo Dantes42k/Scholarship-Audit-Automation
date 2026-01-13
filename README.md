@@ -6,7 +6,7 @@ RPA와 LLM을 활용한 장학금 심사 자동화 시스템
 
 🎓 Scholarship Audit Automation System
 
-&nbsp;	RPA와 LLM을 결합하여 비정형 행정 프로세스를 혁신하는 '비정형 서류 지능형 검토'
+ 	RPA와 LLM을 결합하여 비정형 행정 프로세스를 혁신하는 '비정형 서류 지능형 검토'
 
 
 
@@ -49,11 +49,8 @@ RPA와 LLM을 활용한 장학금 심사 자동화 시스템
 🏗 System Architecture
 
 1. THE HAND (수집): Playwright를 통한 행정망 자동 접속 및 증빙 서류 강제 다운로드.
-   
 2. THE EYE (추출): OCR 하이브리드 엔진을 활용하여 이미지/PDF 내 텍스트 데이터화.
-   
 3. THE BRAIN (판단): Gemini 2.0 기반의 비정형 문서 의미 분석 및 코드북 기반 적합성 심사.
-   
 4. OUTPUT (리포트): 개인정보가 비식별화된 통합 검증 결과 보고서(Excel) 자동 생성.
 
 
@@ -69,3 +66,14 @@ RPA와 LLM을 활용한 장학금 심사 자동화 시스템
 
 
 * PII 비식별화 파이프라인: 분석 시에는 원본을 사용하되, 결과 저장 시 학번/성명/파일명/승인번호를 자동 마스킹 처리하여 보안 무결성 확보.
+
+
+
+
+
+\## 📂 Full Documentation
+
+더 자세한 시스템 설계 원리와 비즈니스 가치 분석은 아래 포트폴리오(PDF)에서 확인하실 수 있습니다.
+
+\* \[Scholarship Automation(PDF)](./docs/Scholarship\_Automation\_Architecture.pdf)
+
