@@ -75,5 +75,5 @@ RPA와 LLM을 활용한 장학금 심사 자동화 시스템
 
 더 자세한 시스템 설계 원리와 비즈니스 가치 분석은 아래 포트폴리오(PDF)에서 확인하실 수 있습니다.
 
-\* \[Scholarship Automation(PDF)](./docs/Scholarship\_Automation\_Architecture.pdf)
+\* \[Scholarship Automation(PDF)](docs/Scholarship\_Automation\_Architecture.pdf)
 
